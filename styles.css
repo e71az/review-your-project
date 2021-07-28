@@ -1,6 +1,5 @@
 #title {
   color: red;
-  margin: 0 auto;
   text-align: center;
 }
 
@@ -8,10 +7,11 @@
   color: green;
 }
 
-#tomato {
+#tomato,
+#title {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-  padding-top: 10%;
+  padding-top: 5%;
 }
